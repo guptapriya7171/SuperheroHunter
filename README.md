@@ -1,5 +1,5 @@
 # SuperheroHunter
-A superhero hunter app
+A superhero hunter application source files
  
 An API based application made with the help of a HTML, CSS and JavaScript.
 API is generated in a Marvel official portal:  https://developer.marvel.com/docs 
