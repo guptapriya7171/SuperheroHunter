@@ -1,4 +1,4 @@
-# SuperheroHunter
+# SuperheroHunter  ![example workflow](https://img.shields.io/badge/Front%20End-HTML%2CCSS%2C%20JV-success)
 A superhero hunter application source files
  
 An API based application made with the help of a HTML, CSS and JavaScript.
